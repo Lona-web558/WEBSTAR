@@ -1,0 +1,58 @@
+1 <!DOCTYPE html>
+2 <html lang="en">
+3 <head>
+4 <meta charset="UTF-8">
+5 <link rel="stylesheet" href="style.css">
+6 <meta name="viewport" content="width=device-initial-scale=1.0">
+7 <h1>I Love Science </h1>
+8 </head>
+9 <body>
+10 <h2>SCIENCE QUIZ </h2>
+11 <ul>
+12 <li>Which Mountain is the tallest in Europe?</li>
+13 <ol>□Mount Rosa</ol>
+14 <ol>□Monte Bianco</ol>
+15 <ol>□St. Niklaus</ol>
+16 <ol>□The Matterhom</ol>
+17 <li>How many mountains does Italy have?</li>
+18 <ol>□156</ol>
+19 <ol>□418</ol>
+20 <ol>□400</ol>
+21 <ol>□410</ol>
+22 <li>Botany is the study of?</li>
+23 <ol>□Plants</ol>
+24 <ol>□Animals</ol>
+25 <ol>□Bacteria</ol>
+26 <ol>□Viruses</ol>
+27 <li>All living organisms are made of cells.</li>
+28 <ol>□False</ol>
+29 <ol>□True</ol>
+30 <li>How many teeth does an adult elephant have?</li>
+31 <ol>□25</ol>
+32 <ol>□24</ol>
+33 <ol>□26</ol>
+34 <ol>□27</ol>
+35 <li>How many days does an elephant's pregnancy last?</li>
+36 <ol>□700</ol>
+37 <ol>□650</ol>
+38 <ol>□680</ol>
+39 <ol>□500</ol>
+40 <li>How many weeks does it take a human foetus to be ready for birth?</li>
+41 <ol>□16</ol>
+42 <ol>□14</ol>
+43 <ol>□12</ol>
+44 <ol>□18</ol>
+45 <li>A Zoologist is a biologist who works with viruses.</li>
+46 <ol>□True</ol>
+47 <ol>□False</ol>
+48 <li>Microbiology is the study of bacteria and viruses.</li>
+49 <ol>□True</ol>
+50 <ol>□False</ol>
+51 <li>How many canines does a lion have?</li>
+52 <ol>□1</ol>
+53 <ol>□2</ol>
+54 <ol>□3</ol>
+55 <ol>□4</ol>
+56 </ul>
+57 </body>
+58 </html>
