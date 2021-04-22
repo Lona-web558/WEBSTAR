@@ -1,0 +1,21 @@
+1 <!DOCTYPE html>
+2 <html>
+3 <head>
+4 <link rel="stylesheet" href="style.css">
+5 <h1>SURVEY</h1>
+6 <h3>A survey about 'NPL WHEY SLIM'</h3>
+7 </head>
+8 <body>
+9 <ol>
+10 <li>How satisfying was this product for you?</li>
+11 <INPUT TYPE="checkbox" NAME="satisfying" VALUE="yes">Very Satisfying<br>
+12 <INPUT TYPE="checkbox" NAME="satisfying" VALUE="yes">Satisfying<br>
+13 <INPUT TYPE="checkbox" NAME="dissatisfying" VALUE="yes">Very dissatisfying<br>
+14 <INPUT TYPE="checkbox" NAME="dissatisfying" VALUE="yes">dissatisfying<br>
+15 <li>Would you recommend this product to another person?</li>
+16 <INPUT TYPE="checkbox" NAME="yes" VALUE="yes">Yes, I would<br>
+17 <INPUT TYPE="checkbox" NAME="no" VALUE="yes">No, I wouldn't<br>
+18 <li>Were there any issues experienced while using this product?</li>
+19 <TEXTAREA NAME="product-comments" COLS="50" ROWS="5">---please enter your comments here---</TEXTAREA>
+20 <li>Do you have any recommendations for this product?</li>
+21 <TEXTAREA NAME="recommendation-comments" COLS="50" ROWS="5">---please enter your comments here---</TEXTAREA>
